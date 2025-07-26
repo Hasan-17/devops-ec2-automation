@@ -1,0 +1,7 @@
+config/*.env
+
+# .gitignore for Terraform projects
+terraform/
+*.exe
+*.tfstate
+*.tfstate.backup
